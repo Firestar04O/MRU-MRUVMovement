@@ -1,0 +1,34 @@
+{
+    "name": "Math",
+    "maps": [
+        {
+            "name": "Math",
+            "id": "b4b1e7de-d1cd-422d-9200-3c3679c70f5e",
+            "actions": [
+                {
+                    "name": "StartMovement",
+                    "type": "Button",
+                    "id": "8e170eb5-127f-43d0-858e-d44940427f42",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9eb23a9c-4c17-408e-980c-f1f426e9201b",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "StartMovement",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
