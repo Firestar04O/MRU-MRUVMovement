@@ -6,9 +6,9 @@
             "id": "b4b1e7de-d1cd-422d-9200-3c3679c70f5e",
             "actions": [
                 {
-                    "name": "StartMovement",
+                    "name": "OnClick",
                     "type": "Button",
-                    "id": "8e170eb5-127f-43d0-858e-d44940427f42",
+                    "id": "36c9b5c6-2e47-4624-850b-660aa7fefa7c",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -18,12 +18,12 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "9eb23a9c-4c17-408e-980c-f1f426e9201b",
-                    "path": "<Keyboard>/space",
+                    "id": "ec93f63a-277c-40cf-96e0-45a97ff75c4e",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "StartMovement",
+                    "action": "OnClick",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
